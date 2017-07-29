@@ -39,6 +39,5 @@ public class MainActivity extends AppCompatActivity {
         mToysListTextView.append(toyName + "\n\n\n");
       }
 
-
     }
 }
